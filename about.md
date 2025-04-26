@@ -6,43 +6,53 @@ permalink: /about/
 
 ---
 
-# 👋 About Me
+
+
+# 📓 내 개발 일기
+
+
 
 안녕하세요!  
-기술과 성장에 관심이 많은 **[당신의 이름]** 입니다.
+이곳은 제가 개발하면서 겪은 일들을 가볍게 기록하는 작은 일기장입니다.
 
-- 🔥 주 관심 분야: `웹 개발`, `백엔드`, `인공지능`
-- 🛠️ 사용하는 기술: `JavaScript`, `TypeScript`, `React`, `Next.js`, `Spring Boot`
-- 🧠 현재 배우고 있는 것: `DevOps`, `AI 서비스 개발`
+주로 이런 것들을 써 내려갑니다:
+- 코딩하다가 알게 된 것들
+- 프로젝트 하면서 생긴 에피소드
+- 삽질 기록 (🙃)
+- 유용했던 팁이나 도구 소개
+- 그냥 개발하면서 느낀 생각들
+
+## 🌷 블로그를 만든 이유
+
+- 혼자만 알기 아까운 것들을 기록하려고!
+- 나중에 봤을 때 "아 이런 것도 했었지" 하고 웃으려고!
+- 혹시라도 누군가에게 도움이 될 수도 있을까 싶어서!
+
+## 🐣 읽어주시는 분께
+
+이 블로그는 전문적인 기술 문서라기보다는,  
+조금은 엉성하고, 따뜻한 개발 일기 같은 느낌으로 읽어주시면 좋겠어요.  
+
+틀리거나 부족한 부분도 있을 수 있지만, 예쁘게 봐주세요! ☺️
+
+---
+
+
+
+# 👋 About Me
+
+- 🔥 주 관심 분야: `백엔드 iOS개발`
+- 🛠️ 사용하는 기술: `Java Spring Boot MySQL Swift SwiftUI CoreData`
+- 🧠 현재 관심 있는 것: `Sprfing Data JPA 리펙토링`
 
 ---
 
 # 🚀 Career
 
-- **[회사 이름]** — [직무명]  
-  [입사년도] ~ 현재  
-  주요 업무: [간단한 설명]
+- **[DB Inc.]** — s/w 엔지니어
+  [2023] ~ 현재
+  주요 업무: 전자전표 운영
 
-- **[이전 회사 이름]** — [직무명]  
-  [근무년도]  
-  주요 업무: [간단한 설명]
 
 ---
 
-# 🛠 Skills
-
-|    Frontend    |       Backend        |  DevOps & 기타   |
-| :------------: | :------------------: | :--------------: |
-| React, Next.js | Spring Boot, Node.js | Docker, Git, AWS |
-
----
-
-# ✨ Contact
-
-- 📧 Email: [your-email@example.com]
-- 📝 Blog: [https://yourblog.example.com](https://yourblog.example.com)
-- 💬 GitHub: [https://github.com/your-github-id](https://github.com/your-github-id)
-
----
-
-> "끊임없이 배우고, 즐겁게 성장하는 개발자가 되겠습니다."
