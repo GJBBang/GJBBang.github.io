@@ -153,12 +153,6 @@ The navigation bar also supports dropdown submenus:
   url: /categories/
 - title: Tags
   url: /tags/
-- title: More
-  sublinks:
-    - title: FAQ
-      url: /faq/
-    - title: Docs
-      url: /docs/
 ```
 
 ### Social Media
