@@ -45,13 +45,13 @@ permalink: /about/
 - 🛠️ 사용하는 기술: `Java Spring Boot MySQL Swift SwiftUI CoreData`
 - 🧠 현재 관심 있는 것: `Sprfing Data JPA 리펙토링`
 
----
-
 # 🚀 Career
 
 - **[DB Inc.]** — s/w 엔지니어
+  
   [2023] ~ 현재
-  주요 업무: 전자전표 운영
+  
+  주요 업무: 
 
 
 ---
