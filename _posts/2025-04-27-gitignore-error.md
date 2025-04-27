@@ -40,7 +40,7 @@ gpt : "application-*.properties 여기에 하이픈 '-' 이 있으니까 너가 
 
 *.properties를 .gitignore에 추가하고 properties 파일을 수정 테스트를 했는데,
 
-![스크린샷 2025-04-27 오후 5.19.46](assets/images/202504/스크린샷 2025-04-27 오후 5.19.46.png)
+![스크린샷 2025-04-27 오후 5.19.46](assets/images/202504/image01)
 
 '뭐지 ? 왜 계속 추적당하는거지 ??'
 
@@ -76,7 +76,7 @@ git commit -m "Apply updated .gitignore rules"
 
 즉, 한 번이라도 git add 처리된 파일은 .gitignore에 작성하더라도 적용되지 않는다.
 
-![스크린샷 2025-04-27 오후 5.27.44](assets/images/202504/스크린샷 2025-04-27 오후 5.27.44.png)
+![스크린샷 2025-04-27 오후 5.27.44](assets/images/202504/image02)
 
 실제로 git 캐시를 지우고 나서, 해당 파일은 ~~똥색~~이 되었다. (인텔리제이 Xcode-dark 테마)
 
