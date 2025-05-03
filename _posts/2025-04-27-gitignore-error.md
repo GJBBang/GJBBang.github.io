@@ -74,7 +74,10 @@ git commit -m "Apply updated .gitignore rules"
 
 
 
-즉, 한 번이라도 git add 처리된 파일은 .gitignore에 작성하더라도 적용되지 않는다.
+한 번이라도 git add 처리된 파일은 .gitignore에 작성하더라도 적용되지 않는다.
+(새로운 파일만 적용 됨..)
+
+
 
 ![스크린샷 2025-04-27 오후 5.27.44](https://gjbbang.github.io/assets/images/202504/image02.png)
 
