@@ -12,7 +12,7 @@ tag: []
 
 
 팀 내에서 EAI 구축을 위한 기획 단계에 있는데,, 최차장님께서 스웨거에 관심을 가지게 되었다.<br/>
-지금 내가 하고 있는 프로젝트에서 스웨거 쓰는걸 실제로 보시고 흥미가 많이 생기신 듯 하다..
+지금 내가 하고 있는 프로젝트에서 스웨거 쓰는걸 실제로 보시고 흥미가 많이 생기신 듯 하다..<br/>
 (항상 최근 기술, 새로운 것을 학습하시려는 차장님 존경합니다..)
 
 아무튼 이참에 스웨거를 정리하려고 한다.
@@ -33,11 +33,11 @@ dependencies {
 }
 ```
 
-
-Spring Boot 2.x 버전의 경우 springdoc-openapi v1.6.x 사용 권장. (v1.7.x 이상부터는 Spring Boot 3.x 이상을 대상으로 설계)
+Spring Boot 2.x 버전의 경우 springdoc-openapi v1.6.x 사용 권장. <br/>
+(v1.7.x 이상부터는 Spring Boot 3.x 이상을 대상으로 설계)
 
 ❗️**주의**
-Springfox (2.x or 3.x): 과거 많이 사용됐지만, Spring Boot 2.6+ 이후로 호환성 문제가 자주 발생함 (PathPatternParser 도입으로)
+Springfox (2.x or 3.x): 과거 많이 사용됐지만, Spring Boot 2.6+ 이후로 호환성 문제가 자주 발생함 (PathPatternParser 도입으로)<br/>
 또한, Springfox는 사실상 유지보수가 중단된 상태이므로 (마지막 릴리즈: 2020.10) springdoc-openapi 사용이 권장된다.
 
 
@@ -284,7 +284,7 @@ public interface ExTrackerRestControllerDocs {
 
 ```
 
-번외로, 이렇게 스웨거를 작성할 시 컨트롤러가 굉장히(?) 지저분해지는데 위 예시와 같이 인터페이스로 따로 빼서 작성하는게 좋다고 생각한다.
+번외로, 이렇게 스웨거를 작성할 시 컨트롤러가 굉장히(?) 지저분해지는데 <br/>위 예시와 같이 인터페이스로 따로 빼서 작성하는게 좋다고 생각한다.
 
 
 
